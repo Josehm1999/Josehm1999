@@ -2,7 +2,6 @@
 I am a :
   * A neovim enthusiast that overthinks it's config: [.dotfiles](https://github.com/Josehm1999/.dotfiles/tree/main/nvim/.config/nvim).
   * Backend developer that uses  .dotnet + angular stack at work and the [t3 stack](https://github.com/t3-oss/create-t3-app) for personal and university projects.
-  * A Virtualization enthusiast that uses QEMU/KVM.
 
 Contact Information 📫:
   * <code>josehm1999 <at> gmail.com</code>
