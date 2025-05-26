@@ -4,7 +4,7 @@ I am a :
   * Backend developer that uses  .dotnet + angular stack at work and the [t3 stack](https://github.com/t3-oss/create-t3-app) for personal and university projects.
 
 Contact Information 📫:
-  * <code>josehm1999 <at> gmail.com</code>
+  * <code>josehm1999@gmail.com</code>
   * Discord: Sleepyduck#6258
 
 <!--
